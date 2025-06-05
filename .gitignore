@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GraduationAPI-EPOSHBOOKING/.config
+/GraduationAPI-EPOSHBOOKING/.vs
+/GraduationAPI-EPOSHBOOKING/bin
+/GraduationAPI-EPOSHBOOKING/obj
+/GraduationAPI-EPOSHBOOKING/packages
+/GraduationAPI-EPOSHBOOKING/Properties
+/UnitTestingAPI
+/GraduationAPI-EPOSHBOOKING/images
+/GraduationAPI-EPOSHBOOKING/Logs
